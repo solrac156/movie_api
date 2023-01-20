@@ -1,0 +1,4 @@
+__pycache__
+.testvenv
+database.sqlite
+.idea
